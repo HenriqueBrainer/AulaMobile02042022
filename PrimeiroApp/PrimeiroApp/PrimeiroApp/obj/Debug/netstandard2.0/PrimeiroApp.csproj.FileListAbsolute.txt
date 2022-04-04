@@ -1,0 +1,15 @@
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\ref\PrimeiroApp.dll
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
+D:\Work\ETEC\PAM2022Mtec\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
